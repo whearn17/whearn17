@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @whearn17
-- 👀 I’m interested in Cybersecurity and Networking as well as Programming
-- 🌱 I’m currently learning Cyber Security and Networking
+- Projects on my page --> Video Game Hacking | Reverse Engineering | Useful Programs | API's
 
 <!---
 whearn17/whearn17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
