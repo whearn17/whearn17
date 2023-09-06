@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @whearn17
-- Projects on my page --> Video Game Hacking | Reverse Engineering | Useful Programs | API's
+Video Game Hacking | Reverse Engineering | Useful Programs | API's
 - Did lots of purging recently. More projects to come soon!
